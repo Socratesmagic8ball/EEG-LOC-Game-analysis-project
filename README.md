@@ -24,3 +24,8 @@ Participants played a custom variant of the classic Pacman arcade game. Control 
 
 
 A BioSemi ActiveTwo EEG system recorded all signals simultaneously at 512 Hz sampling rate with 32 active Ag/AgCl EEG electrodes placed in the extended 10–20 system layout. 
+
+
+Click the link below to view the full report:
+
+👉 [View the PDF Document](./EEG_LOC_Research_Report_copy.pdf)
